@@ -1,0 +1,8 @@
+# Ini adalah file .streamlit/config.toml
+
+[theme]
+primaryColor="#007bff"
+backgroundColor="#0E1117"
+secondaryBackgroundColor="#262730"
+textColor="#FAFAFA"
+font="sans serif"
